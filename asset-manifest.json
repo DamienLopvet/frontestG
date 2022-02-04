@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/frontestG/static/css/main.6d1493c8.chunk.css",
-    "main.js": "/frontestG/static/js/main.02c0bde3.chunk.js",
-    "main.js.map": "/frontestG/static/js/main.02c0bde3.chunk.js.map",
+    "main.css": "/frontestG/static/css/main.86821fcc.chunk.css",
+    "main.js": "/frontestG/static/js/main.797dfe6e.chunk.js",
+    "main.js.map": "/frontestG/static/js/main.797dfe6e.chunk.js.map",
     "runtime~main.js": "/frontestG/static/js/runtime~main.8d6e7dee.js",
     "runtime~main.js.map": "/frontestG/static/js/runtime~main.8d6e7dee.js.map",
     "static/js/2.f3847ecc.chunk.js": "/frontestG/static/js/2.f3847ecc.chunk.js",
     "static/js/2.f3847ecc.chunk.js.map": "/frontestG/static/js/2.f3847ecc.chunk.js.map",
     "index.html": "/frontestG/index.html",
-    "precache-manifest.e9124ccdbc60175f6d7a200153c11e7b.js": "/frontestG/precache-manifest.e9124ccdbc60175f6d7a200153c11e7b.js",
+    "precache-manifest.80832703545151ddb1cc1500e5344d2f.js": "/frontestG/precache-manifest.80832703545151ddb1cc1500e5344d2f.js",
     "service-worker.js": "/frontestG/service-worker.js",
-    "static/css/main.6d1493c8.chunk.css.map": "/frontestG/static/css/main.6d1493c8.chunk.css.map",
+    "static/css/main.86821fcc.chunk.css.map": "/frontestG/static/css/main.86821fcc.chunk.css.map",
     "static/media/logo.png": "/frontestG/static/media/logo.c3e8e0a4.png"
   }
 }
