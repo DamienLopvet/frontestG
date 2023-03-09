@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/frontestG/static/css/main.03cf29b7.chunk.css",
+    "main.js": "/frontestG/static/js/main.910b2022.chunk.js",
+    "main.js.map": "/frontestG/static/js/main.910b2022.chunk.js.map",
+    "runtime-main.js": "/frontestG/static/js/runtime-main.abd4e3a2.js",
+    "runtime-main.js.map": "/frontestG/static/js/runtime-main.abd4e3a2.js.map",
+    "static/js/2.23615d4e.chunk.js": "/frontestG/static/js/2.23615d4e.chunk.js",
+    "static/js/2.23615d4e.chunk.js.map": "/frontestG/static/js/2.23615d4e.chunk.js.map",
+    "index.html": "/frontestG/index.html",
+    "precache-manifest.a7b407e4a1d059ab9ff5835b44e0c06c.js": "/frontestG/precache-manifest.a7b407e4a1d059ab9ff5835b44e0c06c.js",
+    "service-worker.js": "/frontestG/service-worker.js",
+    "static/css/main.03cf29b7.chunk.css.map": "/frontestG/static/css/main.03cf29b7.chunk.css.map",
+    "static/js/2.23615d4e.chunk.js.LICENSE.txt": "/frontestG/static/js/2.23615d4e.chunk.js.LICENSE.txt",
+    "static/js/main.910b2022.chunk.js.LICENSE.txt": "/frontestG/static/js/main.910b2022.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/frontestG/static/media/logo.c3e8e0a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abd4e3a2.js",
+    "static/js/2.23615d4e.chunk.js",
+    "static/css/main.03cf29b7.chunk.css",
+    "static/js/main.910b2022.chunk.js"
+  ]
+}
